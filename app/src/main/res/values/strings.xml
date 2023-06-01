@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">Athlete App</string>
+
+    <string name="profile_name">Audi Hagi</string>
+    <string name="profile_email">audi.hagi2002@gmail.com</string>
+    <string name="profile_birth">1 September 2002</string>
+    <string name="profile_hobby">Futsal, Sepakbola &amp; Badminton</string>
+    <string name="profile_desc">
+        Halo, saya Audi Hagi dari Universitas Bunda Mulia. Saya sudah masuk ke semester ke 6 dalam dunia perkuliahan saya. Untuk semester 6 ini saya memutuskan untuk mengikuti program Kampus Merdeka khususnya dalam Studi Independen yang diadakan oleh Bangkit.\nDisamping kesibukan saya sebagai mahasiswa, saya juga sering menyempatkan waktu saya untuk berolahraga seperti bersepeda, futsal, sepak bola dan badminton.\n10 atlit yang saya sebutkan di page home tadi adalah atlit - atlit yang saya gemari dari beberapa cabang olahraga yang pernah saya tonton.
+    </string>
+
+    <string name="share_detail">SHARE</string>
+    <string name="hobi">Hobi</string>
+    <string name="barrier">:</string>
+    <string name="biodata">Biodata</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="value">isi</string>
+    <string name="athlete_name">Nama Lengkap</string>
+    <string name="athlete_birth">Tanggal Lahir</string>
+    <string name="athlete_country">Negara</string>
+    <string name="athlete_sport">Cabang Olahraga</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+
+    <string-array name="data_name">
+        <item>Anthony Sinisuka Ginting</item>
+        <item>Marselino ferdinan</item>
+        <item>Bambang Bayu Saptaji</item>
+        <item>Christopher Rungkat</item>
+        <item>Eko Yuli Irawan</item>
+        <item>Viktor Axelsen</item>
+        <item>Lionel Messi</item>
+        <item>Ricardinho</item>
+        <item>Roger Federer</item>
+        <item>Khabib Nurmagomedov</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Anthony Sinisuka Ginting atau biasa dipanggil Anthony Ginting lahir di Cimahi, Jawa Barat pada 20 Oktober 1996. Anthony Ginting memiliki garis keturunan karo dari sang ayah. Ginting sangat mencintai olahraga bulu tangkis.
+            Bakat Ginting sudah terlihat sejak kecil, bahkan saat masih duduk di Sekolah Dasar (SD) ia menjuarai kompetisi bulutangkis MILO School Competition nomor Tunggal Putera pada tahun 2008.</item>
+        <item>Marselino Ferdinan adalah seorang pesepak bola Indonesia kelahiran Jakarta. Marselino Ferdinan lahir pada 9 September 2004. Umur Marselino Ferdinan adalah 18 tahun dan menganut agama Kristen.
+            Marselino Ferdinan yang kini bermain di klub Persebaya Surabaya sedang bersinar di Liga 1. Sebab, di usianya yang masih muda, ia mampu menampilkan permainan yang luar biasa.</item>
+        <item>Nama Bambang Saptaji tentunya sudah tidak asing lagi terutama bagi para pecinta futsal tanah air.
+            Bambang berkarir sebagai atlet futsal di beberapa klub tanah air, seperti, Electric PLN, Tifosi Bashkara, Vamos Mataram, dan Halus FC.</item>
+        <item>Petenis Indonesia satu ini bernama lengkap Christopher Benjamin Rungkat. Ia dilahirkan di Jakarta, 14 Januari 1990. Sehingga di tahun ini dia akan berusia 33 tahun. Menurut beberapa sumber menyebutkan, Christopher Rungkat memiliki tiga darah keturunan Indonesia, Belanda dan Kamboja. Ia merupakan anak dari pasangan Alexander Fritz dan Elfia Mirlianti. Diketahui jika Christopher Rungkat menganut agama Kristen. Hal itu dibuktikan dengan salah satu postingan di Instagram pribadinya tatkala merayakan Hari Natal bersama keluarganya beberapa tahun silam.
+            Christopher Rungkat sudah mengenal dunia tenis sejak berusia tujuh tahun. Pada usia tersebut, ia sudah rajin berlatih tenis. Christopher Rungkat pun sukses menjadi juara ganda putra junior di Grand Slam Prancis Terbuka 2008</item>
+        <item>Eko Yuli Irawan lahir di Lampung tepatnya di Kota Metro pada 24 Juli 1989. Ia berasal dari keluarga yang kurang mampu. Ayahnya yang bernama Saman merupakan seorang pengayuh becak, sedangkan ibunya yang bernama Wastiah merupakan seorang penjual sayur. Sedangkan Eko dulunya hanya seorang penggembala kambing.
+            Kiprah Eko di dunia agkat besi dimulai sejak usia remaja. Saat itu, ia melihat anak-anak tengah berlatih angkat besi di sasana Yon Haryono. Ia tertarik untuk bergabung dan ikut berlatih bersama dengan yang lainnya. Setelah mendapat izin dari orang tuanya,  Eko mulai mengakrabkan diri dengan barbel, ia  pun secara rutin ikut berlatih di klub asuhan Yon Haryono tersebut.</item>
+        <item>Axelsen memulai kariernya di lapangan bulu tangkis secara internasinoal sejak tahun 2009 pada Denmark Open Super Series. Di usianya yang ke-16, tepatnya pada September 2010 tahun ia bergabung dengan tim nasional senior untuk kemudian mewakili Denmark di sejumlah turnamen internasional. Axelsen merupakan anak dari pasangan Henrik Axelsen dan Gitte Lundager. Sejak usia 9 tahun, sang ayah memasukannya ke klub bulu tangkis Odense yang membuatnya mengembangkat bakat disana.Awalnya sang Ayah bekerja di agensi periklanan namun saat ini ia merupakan manajer Axelsen. Sedangkan sang Ibu menjalankan bisnis pribadi yaitu toko kosmetik, salon, hingga toko pakaian di pusat Kota Odense.</item>
+        <item>Lionel Andres Messi atau yang lebih dikenal sebagai Lionel Messi merupakan striker Barcelona dan Timnas Argentina. Ia memiliki julukan diantaranya Si Kutu alias La Pulga, El Messiah (Penyelamat) dan King Leo. Julukan Si Kutu sendiri diperoleh Messi dari kakaknya, Rodrigo. Hal ini karena postur tubuh Messi yang lebih kecil daripada kawan-kawannya. Meski begitu, kelihaiannya bermain bola mengantarkan Barcelona sebagai salah satu tim terkuat di La Liga.
+            Namun sebelum terkenal seperti saat ini, Messi tumbuh bersama kedua kakak laki-laki (Rodrigo dan Mati­as) serta seorang adik perempuan (Maria Sol). Anak laki-laki ketiga dari pasangan pekerja pabrik baja dan pembantu rumah tangga (Jorge Horacio Messi dan Celia Maria) ini dilahirkan di Rosario, Santa Fe Province, Argentina, 24 Juni 1987.</item>
+        <item>Ricardinho atau yang bernama lengkap Ricardo Filipe da Silva Braga, lahir di Valbom, Portugal pada 3 September 1985. Ketika kecil, dia awalnya tidak berniat menjadi pemain futsal. Saat berusia 14 tahun, Ricardinho sempat melakukan trial bersama salah satu klub sepak bola terbesar di Portugal, yakni FC Porto. Ricardinho sempat masuk akademi Porto. Namun, tak berselang lama, pelatih yang merekrutnya malah meningalkan klub. Sialnya, pelatih baru yang datang saat itu kurang bersahabat dan menilai fisiknya terlalu kecil. Karena masalah itu Ricardinho tidak dimainkan selama 18 bulan yang membuatnya sangat kesal. Soalnya, saat itu ikut bertanding bisa membantu meningkat nilai di sekolahnya. Ricardinho lalu meluapkan kekesalannya dengan bermain sepak bola di jalanan. Dia kemudian ditemukan pemandu bakat dan membujuknya untuk alih profesi menjadi pemain futsal.</item>
+        <item>Roger Federer adalah salah satu petenis terbaik di dunia asal Swiss. Federer menempati peringkat pertama dunia selama 16 kali. Gelar juara dunia Federer di Grand Slam tunggal putra tersebut merupakan gelar terbanyak di sepanjang sejarah.
+            Federer dilahirkan oleh seorang ibu yang berkebangsaan Afrika Selatan, Lynette Durand, dan ayah, Robert Federer, yang berdarah asli Swiss. Federer lancar berbahasa Jerman, Perancis, dan Swiss Jerman. Sementara istrinya, Mirka Vavrinec, yang dinikahi Federer pada 11 April 2009, adalah seorang mantan petenis yang telah pensiun karena cedera kaki yang dialaminya.</item>
+        <item>Khabib Nurmagomedov adalah laki-laki kelahiran Dagestan pada 20 September 1988 yang sejak kecil sudah tertarik dengan dunia seni bela diri. Ayahnya, Abdulmanap Nurmagomedov, merupakan atlet dan veteran Angkatan Darat yang saat itu sudah menjadi pelatih bela diri campuran asal Rusia, yakni Sambo.
+            Khabib yang berasal dari Rusia merupakan atlet MMA beragama Islam pertama yang memenangkan gelar UFC. Sewaktu masih anak-anak, Khabib sudah mulai sering berlatih gulat.</item>
+
+    </string-array>
+
+    <string-array name="data_foto">
+        <item>https://cdn.antaranews.com/cache/800x533/2021/08/02/antarafoto-ginting-raih-perunggu-02082021-sgd-5.jpg</item>
+        <item>https://assets.pikiran-rakyat.com/crop/167x57:710x431/x/photo/2022/01/27/1091281230.png</item>
+        <item>https://cdn.idntimes.com/content-images/community/2020/06/71848095-487829185149280-6029195162110563123-n-fe8df66c5ea0770474c7ed7efa161e7b_600x400.jpg</item>
+        <item>https://t-2.tstatic.net/palembang/foto/bank/images/christiper-rungkat.jpg</item>
+        <item>https://awsimages.detik.net.id/community/media/visual/2021/07/25/eko-yuli-irawan-3.jpeg?w=1200</item>
+        <item>https://dmm0a91a1r04e.cloudfront.net/C4tR28rL2pbRjCgxTAidXx-g50I=/1024x683/https%3A%2F%2Fkompas.id%2Fwp-content%2Fuploads%2F2021%2F08%2FTokyo-Olympics-Badminton_98146482_1628523634.jpg</item>
+        <item>https://img.okezone.com/content/2023/02/04/51/2759071/lionel-messi-bakal-jadi-andalan-christophe-galtier-di-laga-psg-vs-toulouse-ini-sebabnya-CJ9hsWera5.JPG</item>
+        <item>https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/06/2252540122.jpg</item>
+        <item>https://s.yimg.com/ny/api/res/1.2/WBBkhAA2rwFtWx6fNCm.6g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTY0MA--/https://media.zenfs.com/en/bang_showbiz_nz_240/cb6f0bd612c72b43c5b4e28dbff59471</item>
+        <item>https://img.okezone.com/content/2022/12/08/43/2722998/ini-dia-petarung-yang-bisa-mengalahkan-khabib-nurmagomedov-UgjsUg9X7a.jpg</item>
+    </string-array>
+
+    <string-array name="data_country">
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Denmark</item>
+        <item>Argentina</item>
+        <item>Portugal</item>
+        <item>Swiss</item>
+        <item>Russia</item>
+    </string-array>
+
+    <string-array name="data_sport">
+        <item>Badminton</item>
+        <item>Sepak Bola</item>
+        <item>Futsal</item>
+        <item>Tennis</item>
+        <item>Angkat Besi</item>
+        <item>Badminton</item>
+        <item>Sepak Bola</item>
+        <item>Futsal</item>
+        <item>Tennis</item>
+        <item>Mix Martial Arts</item>
+    </string-array>
+
+    <string-array name="data_birth">
+        <item>20 Oktober 1996 (26 Tahun)</item>
+        <item>9 September 2004 (18 Tahun)</item>
+        <item>8 September 1992 (30 Tahun)</item>
+        <item>14 Januari 1990 (33 Tahun)</item>
+        <item>24 Juli 1989 (33 Tahun)</item>
+        <item>4 Januari 1994 (29 Tahun)</item>
+        <item>24 Juni 1987 (35 Tahun)</item>
+        <item>3 September 1985 (37 tahun)</item>
+        <item>8 Agustus 1981 (41 Tahun)</item>
+        <item>20 September 1988 (34 Tahun)</item>
+    </string-array>
+</resources>

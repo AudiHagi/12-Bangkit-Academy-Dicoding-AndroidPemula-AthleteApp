@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginStart="8dp"
+    android:layout_marginTop="8dp"
+    android:layout_marginEnd="8dp"
+    android:layout_marginBottom="8dp"
+    tools:context=".DetailActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_athlete_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:gravity="center"
+            android:text="@string/athlete_name"
+            android:textSize="24sp" />
+
+        <ImageView
+            android:id="@+id/iv_athlete_photo"
+            android:layout_width="match_parent"
+            android:layout_height="320dp"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/profile" />
+
+        <TextView
+            style="@style/TVDesc"
+            android:text="@string/biodata" />
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp">
+
+            <TableRow style="@style/BarisTable">
+
+                <TextView
+                    style="@style/TextContent"
+                    android:text="@string/athlete_name" />
+
+                <TextView
+                    style="@style/Barier"
+                    android:text="@string/barrier" />
+
+                <TextView
+                    android:id="@+id/tv_athlete_name2"
+                    style="@style/TextContent"
+                    android:text="@string/value" />
+            </TableRow>
+
+            <TableRow style="@style/BarisTable">
+
+                <TextView
+                    style="@style/TextContent"
+                    android:text="@string/athlete_birth" />
+
+                <TextView
+                    style="@style/Barier"
+                    android:text="@string/barrier" />
+
+                <TextView
+                    android:id="@+id/tv_athlete_birth"
+                    style="@style/TextContent"
+                    android:text="@string/value" />
+            </TableRow>
+
+            <TableRow style="@style/BarisTable">
+
+                <TextView
+                    style="@style/TextContent"
+                    android:text="@string/athlete_country" />
+
+                <TextView
+                    style="@style/Barier"
+                    android:text="@string/barrier" />
+
+                <TextView
+                    android:id="@+id/tv_athlete_country"
+                    style="@style/TextContent"
+                    android:text="@string/value" />
+            </TableRow>
+
+            <TableRow style="@style/BarisTable">
+
+                <TextView
+                    style="@style/TextContent"
+                    android:text="@string/athlete_sport" />
+
+                <TextView
+                    style="@style/Barier"
+                    android:text="@string/barrier" />
+
+                <TextView
+                    android:id="@+id/tv_athlete_sport"
+                    style="@style/TextContent"
+                    android:text="@string/value" />
+            </TableRow>
+        </TableLayout>
+
+        <TextView
+            style="@style/TVDesc"
+            android:text="@string/description" />
+
+        <TextView
+            android:id="@+id/tv_athlete_desc"
+            style="@style/TVDesc"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:justificationMode="inter_word"
+            android:text="@string/value" />
+    <Button
+        android:id="@+id/btn_share"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/share_detail"/>
+    </LinearLayout>
+</ScrollView>
